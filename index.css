@@ -368,7 +368,7 @@ body {
 
 @media(min-width: 769px) {
   .footer {
-    background-image: url(/img/puntitos.jpg);
+    background-image: url(img/puntitos.jpg);
     flex-direction: row;
     justify-content: space-between;
   }
