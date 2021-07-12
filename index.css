@@ -18,7 +18,7 @@ body {
 /* HEADER */
 
 .header {
-  background-image: url(/img/puntitos.jpg);
+  background-image: url(img/puntitos.jpg);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -78,7 +78,7 @@ body {
 /* SECTION 1 - INICIO */
 
 .container-inicio {
-  background-image: url(/img/puntitos.jpg);
+  background-image: url(img/puntitos.jpg);
   display: flex;
   flex-direction: column;
   align-items: center;
